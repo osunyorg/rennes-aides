@@ -2,6 +2,11 @@
 
 baseURL: https://aides.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 1824a43f-cf30-4817-a11d-a48acdbec552
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
