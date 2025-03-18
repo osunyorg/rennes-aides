@@ -11,4 +11,11 @@ items:
   kind: url
   new_tab: false
   children: []
+- title: Toutes les aides
+  target: "/toutes-les-aides/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/toutes-les-aides"
+  file: content/fr/pages/toutes-les-aides/_index.html
 
