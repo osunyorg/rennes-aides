@@ -8,7 +8,6 @@ jobs:
   update-rennes-theme:
     uses: ecedi/rennes-ville-metropole-workflows/.github/workflows/ecedi-deploy.yml@main
     secrets:
-      ECEDI_PAT_TOKEN: ${{ secrets.ECEDI_PAT_TOKEN }}
       SSH_PRIVATE_KEY: ${{ secrets.ECEDI_SSH_PRIVATE_KEY }}
       SSH_HOST: ${{ secrets.ECEDI_SSH_HOST }}
       SSH_USER: ${{ secrets.ECEDI_SSH_USER }}
