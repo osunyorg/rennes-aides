@@ -7,4 +7,4 @@ allowed_domains:
   - "tile.openstreetmap.org"
   - "mviewer.sig.rennesmetropole.fr"
   - "app.sig.rennesmetropole.fr"
-  - "data.rennesmetropole.fr"
+  - "public.sig.rennesmetropole.fr"
